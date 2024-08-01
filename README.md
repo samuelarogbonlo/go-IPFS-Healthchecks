@@ -1,4 +1,4 @@
-# GO-IPFS-h\Healthcheck
+# GO-IPFS-Healthcheck
 
 A plugin for [kubo](https://github.com/ipfs/kubo) that serves a healthcheck endpoint which returns the status of the IPFS node.
 
